@@ -1,0 +1,8 @@
+*.wav
+*.gz
+*.pt
+*.pth
+
+*/data
+*/__pacache__
+.idea
