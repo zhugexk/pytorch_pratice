@@ -4,5 +4,5 @@
 *.pth
 
 */data
-*/__pacache__
+*/__pycache__
 .idea
